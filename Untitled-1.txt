@@ -1,0 +1,7 @@
+* For detailed credits and licence information see https://github.com/financial-times/polyfill-service.
+    * 
+    * Features requested: default,dom4,es5,es2015,es2016,es2017,es2018,es2019,es2020,es2021,es2022,es2023,matchMedia,Intl.DateTimeFormat.prototype.formatToParts.~locale.en,Intl.DateTimeFormat.~locale.en,Intl.DateTimeFormat.~timeZone.all.~locale.en,Intl.DateTimeFormat.~timeZone.golden.~locale.en,Intl.DisplayNames.~locale.en,Intl.ListFormat.~locale.en,Intl.Locale.~locale.en,Intl.NumberFormat.~locale.en,Intl.PluralRules.~locale.en,Intl.RelativeTimeFormat.~locale.en,Intl.getCanonicalLocales.~locale.en,console,console.error,IntersectionObserver,IntersectionObserverEntry,requestIdleCallback,ResizeObserver
+    * 
+    * 
+    * These features were not recognised:
+    * - Intl.DateTimeFormat.prototype.formatToParts.~locale.en,- Intl.DateTimeFormat.~timeZone.all.~locale.en,- Intl.DateTimeFormat.~timeZone.golden.~locale.en,- Intl.Locale.~locale.en,- Intl.getCanonicalLocales.~locale.en */
